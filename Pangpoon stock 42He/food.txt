@@ -1,0 +1,4 @@
+401	NuggetS	10	10
+402	NuggetM	20	30
+403	NuggetL	30	10
+404	NuggetXL	40	5

@@ -1,0 +1,19 @@
+_ Tue, 22 Nov 2016 12:50:08
+Espresso_H          20
+Espresso_C          25
+Espresso_B          30
+total = 75  cash = 200  change = 125  
+_ Tue, 22 Nov 2016 15:59:30
+Espresso_H          20
+Espresso_C          25
+Espresso_B          30
+Mocha_H             25
+total = 100  cash = 2000  change = 1900  
+_ Tue, 22 Nov 2016 16:01:27
+Espresso_H          20
+Espresso_C          25
+Espresso_B          30
+Mocha_H             25
+Mocha_C             25
+Mocha_B             30
+total = 155  cash = 20000  change = 19845  
